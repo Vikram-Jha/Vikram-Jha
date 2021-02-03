@@ -10,6 +10,25 @@
 - 😄 Pronouns: He/Him/Oye(Hindi Reference)
 - ⚡ Fun fact: 2^(82,589,933) − 1 is the largest known and computed prime number.
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
+
+<a href="https://github.com/Vikram-Jha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-Jha&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Vikram-Jha">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikram-Jha&show_icons=true&theme=dark&line_height=27"/>
+</a>
+
+<div align="center">
+
 ### Connect with me:
 
 [<img align="left" alt="Vikram Jha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -21,12 +40,6 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikram-Jha)](https://github.com/Vikram-Jha/github-readme-stats)
-  
-</details>
 
 [twitter]: https://mobile.twitter.com/vikram_jha15
 [instagram]: https://www.instagram.com/vikram_jha4
@@ -34,21 +47,7 @@
 [linkedin]: https://www.linkedin.com/in/vikram-jha-25a739146/
 [hackerrank]: https://www.hackerrank.com/vikramjha018?hr_r=1
 
-**Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
-
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-Jha&theme=light&hide_langs_below=1" />
-</a>
-
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
