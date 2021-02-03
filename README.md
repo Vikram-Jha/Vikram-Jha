@@ -26,14 +26,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-Jha&theme=light&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Vikram-Jha">
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vikram's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-</a>
 
 ### Connect with me:
 
