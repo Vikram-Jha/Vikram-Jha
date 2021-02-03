@@ -26,13 +26,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-Jha&theme=light&hide_langs_below=1" />
 </a>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Vikram's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
+<a href="https://github.com/Vikram-Jha">
+  <summary>:GitHub Stats</summary>
+  <img align="left" alt="Vikram's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vikram-Jha&show_icons=true&hide_border=true" />
+</a>
+  
 ### Connect with me:
 
 [<img align="left" alt="Vikram Jha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
