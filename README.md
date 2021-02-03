@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Machine Learning
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Vikramjha018@gmail.com  
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... We/WIN
 - ⚡ Fun fact: ... I am half finished!
--->
