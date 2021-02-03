@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Vikramjha018@gmail.com  
 - 😄 Pronouns: ... He/Him/Oye(Hindi Reference)
-- ⚡ Fun fact: ... Why should I tell you? 
+- ⚡ Fun fact: ... 2^(82,589,933) − 1 is largest computed prime number.
