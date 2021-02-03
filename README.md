@@ -26,8 +26,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Vikram's GitHub Stats" src="https://github-readme-stats.vikramjha.vercel.app/api?username=Vikram-Jha&show_icons=true&hide_border=true" />
-
+  [![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikram-Jha)](https://github.com/Vikram-Jha/github-readme-stats)
+  
 </details>
 
 [twitter]: https://mobile.twitter.com/vikram_jha15
