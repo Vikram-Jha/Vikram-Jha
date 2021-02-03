@@ -10,8 +10,7 @@
 - 😄 Pronouns: He/Him/Oye(Hindi Reference)
 - ⚡ Fun fact: 2^(82,589,933) − 1 is the largest known and computed prime number.
 
----
-Most used languages across my projects:
+### Most used languages across my projects:
 
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B193.6%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.4%25)
