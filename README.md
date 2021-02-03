@@ -27,7 +27,6 @@
 </a>
 
 <a href="https://github.com/Vikram-Jha">
-  <summary>:GitHub Stats</summary>
   <img align="left" alt="Vikram's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vikram-Jha&show_icons=true&hide_border=true" />
 </a>
   
